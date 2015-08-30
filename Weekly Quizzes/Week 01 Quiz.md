@@ -99,7 +99,7 @@ Question 12
 ### Answer  
 False  
 
-### Explanation  
+#### Explanation  
 Eclipse is only one of several IDE's that Android developers can use to write their applications.  
 
 Question 13
@@ -123,7 +123,7 @@ Question 15
 ### Answer  
 False  
 
-Question 15
+Question 16
 -----------  
 (True or False): Android Virtual Devices can be created to mimic specific physical devices, such as a Nexus One, or a Galaxy Nexus tablet.  
 
