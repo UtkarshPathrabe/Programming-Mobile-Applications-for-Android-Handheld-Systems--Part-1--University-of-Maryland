@@ -32,7 +32,7 @@ A String Uri.
 
 Question 04
 -----------  
-Suppose you create an application that uses the Vibration Service to make a device vibrate as a deadline approaches. To receive permission to use the Vibrator Service, you will need to add a `<uses-permission>` element to your application's `AndroidManifest.xml` file. What permission value should you use to complete the `<uses-permission>` element - `<uses-permission android:name="..."/>`?
+Suppose you create an application that uses the Vibration Service to make a device vibrate as a deadline approaches. To receive permission to use the Vibrator Service, you will need to add a `<uses-permission>` element to your application's `AndroidManifest.xml` file. What permission value should you use to complete the `<uses-permission>` element - `<uses-permission android:name="..."/>`?  
 See: [http://developer.android.com/reference/android/Manifest.permission.html](http://developer.android.com/reference/android/Manifest.permission.html) for more information.  
 
 ### Answer  
