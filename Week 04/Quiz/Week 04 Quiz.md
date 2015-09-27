@@ -76,7 +76,8 @@ Suppose that an application wants to create and display a Dialog. If the applica
 
 Question 08
 -----------  
-The ActionBar has four functional areas: The App icon, a View control area, an Action Buttons area and an Action Overflow area. What is the purpose of the Action Overflow area? See: [http://developer.android.com/design/patterns/actionbar.html](http://developer.android.com/design/patterns/actionbar.html) for more information.  
+The ActionBar has four functional areas: The App icon, a View control area, an Action Buttons area and an Action Overflow area. What is the purpose of the Action Overflow area?  
+See: [http://developer.android.com/design/patterns/actionbar.html](http://developer.android.com/design/patterns/actionbar.html) for more information.  
 
 ### Answer  
 When Action Buttons cannot fit in or should not be placed on the Action Bar, they are displayed in a separate View that is accessible by touching the Action Overflow area.  
